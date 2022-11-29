@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_QVI-gFB4Ee2UbdWgWC1eVg" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_QVI-gVB4Ee2UbdWgWC1eVg" comment="" name="Inputs" prompt="Inputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/noura/Desktop/Talend/Input/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_ci830FB7Ee2UbdWgWC1eVg" confirmationNeeded="false" name="Developpement">
+    <contextParameter xmi:id="_ci830VB7Ee2UbdWgWC1eVg" comment="" name="Inputs" prompt="Inputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/noura/Desktop/Talend/Input/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_ci830lB7Ee2UbdWgWC1eVg" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_ci8301B7Ee2UbdWgWC1eVg" comment="" name="Inputs" prompt="Inputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/noura/Desktop/Talend/Input/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_ci831FB7Ee2UbdWgWC1eVg" confirmationNeeded="false" name="Test">
+    <contextParameter xmi:id="_ci831VB7Ee2UbdWgWC1eVg" comment="" name="Inputs" prompt="Inputs?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/noura/Desktop/Talend/Input/"/>
+  </talendfile:ContextType>
+</xmi:XMI>
